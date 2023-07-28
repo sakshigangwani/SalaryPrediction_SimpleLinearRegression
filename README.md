@@ -1,1 +1,2 @@
 # SimpleLinearRegression
+It is a dataset containing 30 observations. One column is an independent variable that is years of experience and another contains dependent variable that is Salary. Let's say this dataset belongs to some company that gathered data some of their employees. The goal is to simply build a linear regression model that will be trained to understand the correlation between the number of years of experience and salary.
